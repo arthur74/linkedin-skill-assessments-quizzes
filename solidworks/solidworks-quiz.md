@@ -22,3 +22,52 @@
 - [ ] Extruded Boss/Base
 - [x] Sweep
 - [ ] Revolved Boss/Base
+
+#### Q4. You notice that one of the subassemblies in your main assembly is rigid and does not have the mobility it should. How can you resolve this issue.
+
+- [ ] Select the subassembly and then Select Make independent from the contect menu
+- [x] Select the subassembly and then Select Make Subassembly Flexible from the contect menu
+- [ ] Select the subassembly and then Select Resolved from Lightweight from the contect menu
+- [ ] Select the subassembly and then Select Esdit Assembly from the contect menu
+
+#### Q5. What is this image example of ?
+
+- [ ] a revision table
+- [ ] a tolerance table
+- [x] a hole table 
+- [ ] Revolved Boss/Base
+
+#### Q5. which choice is an example of a sketched feature?
+
+- [ ] shell
+- [ ] fillet
+- [x] extrusion
+- [ ] chamfer
+
+#### Q6. What controls the direction and magnitude of spline curvature?
+
+- [x] spline handle
+- [ ] control point 
+- [ ] spline point
+- [ ] inflection point
+
+#### Q7. Can this sketch be struded?
+
+- [ ] Yes, you can extrude it using the selected contours option
+- [ ] Yes, you can extrude it using the standard extrude boss option
+- [ ] No, the sketch is an open contour and thus can not be extruded
+- [x] Yes, you can extrude it using the Thin Feature option
+
+#### Q8. If you are working with ISO standards, wich projection method would you most likely be using?
+
+- [ ] first angle projection
+- [ ] fourth angle projection
+- [ ] third angle projection
+- [ ] second angle projection
+
+#### Q9. In the image bellow, wich are the parents and children of the vertical boss feature?
+
+- [ ] the parent is the base feature: the children are slot cutout, ske
+- [ ] fourth angle projection
+- [ ] third angle projection
+- [ ] second angle projection
